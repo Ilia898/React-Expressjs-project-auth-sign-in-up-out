@@ -1,1 +1,5 @@
-
+*.react js linguist-detectable=true
+*.node js  linguist-detectable=true
+*.express js linguist-detectable=true
+*.tailwindcss linguist-detectable=true
+*.html linguist-detectable=false
