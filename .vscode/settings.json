@@ -2,5 +2,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "prettier.embeddedLanguageFormatting": "auto",
-  "prettier.htmlWhitespaceSensitivity": "css"
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "editor.acceptSuggestionOnEnter": "on"
 }
